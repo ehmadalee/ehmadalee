@@ -1,5 +1,5 @@
 # About Me:
-I'm Ahmad Ali, a Data Analyst and aspiring Data Engineer. I work with data to extract insights, build reports, and develop scalable data workflows.<br><br>Skills and Tools:<br><br>• SQL, Excel, Power BI, Python (Pandas, NumPy)<br><br>• Learning AWS (S3, Glue, Redshift)<br><br>• Focused on ETL pipelines, data automation, and cloud data tools<br><br>• Building dashboards, reports, and data-driven solutions<br><br>• Always learning. Always building.
+I'm Ahmad Ali, a Data Analyst and aspiring Data Engineer. I work with data to extract insights, build reports, and develop scalable data workflows.<br><br>Skills and Tools:<br><br>• SQL, Power BI, Python (Pandas, NumPy)<br><br>• Learning AWS (S3, Glue, Redshift)<br><br>• Focused on ETL pipelines, data automation, and cloud data tools<br><br>• Building dashboards, reports, and data-driven solutions<br><br>• Always learning. Always building.
 
 
 ## 🌐 Socials:
